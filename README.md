@@ -38,7 +38,7 @@ Qtinar OS v0.2 is a small educational operating system kernel written from scrat
 
 
 ## 📁 Project Structure
-\\\(
+```
 Qtinarv0.2-part1-simple-interrupts/
 │
 ├── src/
@@ -61,5 +61,5 @@ Qtinarv0.2-part1-simple-interrupts/
 │
 ├── linker.ld               # Linker script
 └── README.md               # This file
-)\\\
+```
 
