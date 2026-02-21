@@ -1,6 +1,8 @@
 # Qtinar OS v0.2 — Simple Interrupts
 
 Qtinar OS v0.2 is a small educational operating system kernel written from scratch in C and Assembly. This version focuses on building a correct and stable interrupt system, including GDT, IDT, PIC remapping, and a working keyboard interrupt. It is designed as a learning project to understand how low‑level OS components interact with hardware on x86 systems.
+
+
 ![OutPut](https://github.com/mahdiehGharibi/Qtinarv0.2-part1-simple-interrupts/blob/b76edd19d8be1e5c7a34e01da7c8caecf35040f9/OutPut.png)
 
 
